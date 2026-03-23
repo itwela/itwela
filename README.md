@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /></p>
 
-I build full-stack web apps, mobile apps, and AI-powered tools. Last year I cleared $100k doing it. 12+ shipped products across SaaS, AI, and mobile.
+I build full-stack web apps, mobile apps, and AI-powered tools. Last year I had a really great job doing it. I have 12+ shipped products across SaaS, AI, and mobile.
 
 Open to **full-time software engineering roles** and **freelance clients** who need real software built.
 
