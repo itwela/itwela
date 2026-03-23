@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=itwela&label=Profile%20views&color=0e75b6&style=flat" alt="itwela" /></p>
 
-I build full-stack web apps, mobile apps, and AI-powered tools. Last year I had a really great job doing it. I have 12+ shipped products across SaaS, AI, and mobile.
+I build full-stack web apps, mobile apps, and AI-powered tools. Last year I cleared $100k doing it. 12+ shipped products across SaaS, AI, and mobile.
 
 Open to **full-time software engineering roles** and **freelance clients** who need real software built.
 
@@ -32,6 +32,7 @@ Open to **full-time software engineering roles** and **freelance clients** who n
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgresql"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind"/></a>
   <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="40" height="40" alt="php"/></a>
+  <a href="https://www.convex.dev/"><img src="https://cdn.simpleicons.org/convex" width="40" height="40" alt="convex"/></a>
 </p>
 
 ---
